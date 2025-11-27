@@ -52,10 +52,13 @@ README.md              # Documentation file
 
 ---
 
-## 📷 Example Output
+## Output
 
-* Circles drawn around detected coins
-* Total number of coins printed
+![alt text](output/image.png)
+![alt text](<output/image copy.png>)
+![alt text](<output/image copy 2.png>)
+![alt text](<output/image copy 3.png>)
+![alt text](<output/image copy 4.png>)
 
 ---
 
